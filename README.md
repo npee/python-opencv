@@ -1,8 +1,7 @@
 # python-opencv
-## opencv 버전
-### 4.1.2 ver
+## Opencv 버전(4.1.2)
 
-- code
+- 확인 code
 ```python
 import cv2
 print(cv2.__version__)
